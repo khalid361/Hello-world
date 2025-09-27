@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace HelloWorld
+    cosole.writeline("Welcome to com326");
 {
     internal class Program
     {
